@@ -1,6 +1,6 @@
 # Discord Administration & Community Bot
 
-A multi-purpose **Discord administration and community management bot** built with Python using :contentReference[oaicite:0]{index=0}.  
+A multi-purpose **Discord administration and community management bot** built with Python using Discord.py.  
 Designed to support moderation, server utilities, help-desk automation, vouching systems, and informational embeds.
 
 ---
